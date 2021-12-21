@@ -13,7 +13,7 @@ well as mentors.
 
 ## Project Duration
 
-Nov 13 - Nov 29 2020 for prototype package in KPMG The World After Covid-19 \
+Nov 13 - Nov 29 2020 for prototype phase in KPMG The World After Covid-19 \
 Hackathon
 
 ## Solution
