@@ -1,0 +1,9 @@
+/* resetting margin and padding for each html element */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
